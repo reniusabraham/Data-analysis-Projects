@@ -1,10 +1,8 @@
 # Data-analysis-Projects
 
-DATA ANALYSIS PROJECTS
 
 
-
-1)	AMAZON
+# 1)	AMAZON
  
 
 In the vast realm of e-commerce, Amazon, the titan of online retail, sought to enhance its recommendation system. The objective of this project is to analyze user behavior in Amazon and determine which products can be recommended to users based on their buying patterns. By leveraging data from a SQLite database, we aim to identify key insights that can help Amazon make personalized product recommendations. This project will also investigate the differences in behavior between frequent and non-frequent viewers, as well as examine the verbosity of frequent users. Furthermore, sentiment analysis will be conducted to gain insights into user sentiments towards the products.
@@ -43,7 +41,7 @@ Conclusion: Through this comprehensive analysis of user behavior in Amazon, we h
 
 
 
-2.  BITCOIN
+# 2.  BITCOIN
 
  
 
@@ -88,7 +86,7 @@ Conclusion: Through this comprehensive analysis of Bitcoin's price data, we have
 
 
 
-3 . COVID 19
+# 3 . COVID 19
 
  
 
@@ -160,7 +158,7 @@ Conclusion: This project provides a comprehensive analysis of global COVID-19 da
 
 
 
-4) UBER
+# 4) UBER
  
 
 Uber, the global ride-hailing and transportation network company, has transformed the way people travel within cities. Through its innovative mobile application, Uber disrupted the traditional taxi industry by introducing a peer-to-peer ridesharing model. By leveraging technology, Uber provides a seamless and user-friendly experience for both passengers and drivers. The company has expanded rapidly across countries and cities, overcoming regulatory challenges. Uber offers a diverse range of services, catering to different market segments, and contributing to its overall business strategy. It has had a significant impact on urban mobility, congestion reduction, and transportation accessibility. Uber driver-partners play a role in the gig economy, benefiting from the flexibility and income potential offered by driving for Uber. Technological advancements, such as GPS, real-time mapping, and machine learning algorithms, have enabled Uber to optimize routes and match drivers efficiently.
@@ -209,7 +207,7 @@ This project focuses on analyzing Uber pickups in New York City to gain insights
 This project offers a comprehensive analysis of Uber pickups in New York City, providing insights into monthly trends, hourly rush patterns, active vehicle distribution, rush locations, and the impact of hour and weekday on pickups. The findings can be utilized by Uber or other stakeholders to optimize operations, allocate resources efficiently, and improve the overall user experience. 
 
 
-5) Hotel Booking 
+# 5) Hotel Booking 
 
  
 
